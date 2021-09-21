@@ -1,7 +1,10 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio responsive complete
-A clean and nice web portfolio for designer or developer. That includes almost everything you want to show. At first, your name, links to social networks and a great image. Then the About section displays more information about you. Then the list of Skills it offers. It also has a section where it shows some recent work. And at the bottom it has a form, and at the end with a footer.
+#  My first Portfolio Website
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+### Mohamad Hasif Azim Bin Ibrahim
+Hi I'm a self taught web developer from Sungai Buloh, Malaysia. I'm currently learning Javascript development with FreeCodeCamp and participate in Frontend Mentor Challenges to help me improve my coding skills by buiding realistic projects. I also have degrees in Actuarial Science from The National University of Malaysia (UKM) so I can't wait till I get to the point where I can jump into the more interactive data visualizations and put what I'm learning to good use. But now I'm having fun learning the basics!
+
+
+
+
+
+
