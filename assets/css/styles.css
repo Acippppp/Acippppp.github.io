@@ -313,13 +313,13 @@ img{
   z-index: var(--z-back);
 }
 .skills__html{
-  width: 10%;
+  width: 25%;
 }
 .skills__css{
-  width: 10%;
+  width: 25%;
 }
 .skills__js{
-  width: 10%;
+  width: 20%;
 }
 .skills__python{
   width: 50%;
